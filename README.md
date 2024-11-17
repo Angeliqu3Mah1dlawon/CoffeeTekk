@@ -1,5 +1,5 @@
 # Coffeetek
-Coffeetek Mobile App
+Coffeetek Mobile App.
 
 # Features
 * Curated Selection of Coffee Beans
@@ -25,3 +25,4 @@ Coffeetek Mobile App
 <img src="assets/images/screenshots/tabs.jpg">  
 
 # WalkThrough
+[CoffeeTekk App Walkthrough](https://youtu.be/90zaLQ0pWtE)
